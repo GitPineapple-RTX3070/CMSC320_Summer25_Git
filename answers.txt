@@ -7,3 +7,7 @@ Answer: Centralized area for storing and organizing code
 Q3: What is the difference between Merging and Rebasing?
 
 Answer: Merge is all conflicts at once while rebasing is one conflict at a time
+
+Q4: What are you looking forward to this semester?
+
+Answer: Learning about data science
